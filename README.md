@@ -9,7 +9,8 @@ This project explores the **Netflix Movies and TV Shows dataset** to uncover ins
 
 - **File**: `netflix_titles.csv`  
 - **Source**: Kaggle  
-- **Content**: Title, director, cast, country, release year, rating, duration, and more.
+- **Content**: Title, director, cast, country, release year, rating, duration, and more.  
+- 📥 [Download Dataset (CSV)](netflix_titles.csv)
 
 ---
 
@@ -46,6 +47,5 @@ This project explores the **Netflix Movies and TV Shows dataset** to uncover ins
 1. Clone this repo  
 2. Open `Data_Science_EDA_Project.ipynb` in Jupyter Notebook  
 3. Run the notebook cells to view analysis and visualizations
-
 
 
